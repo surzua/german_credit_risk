@@ -51,4 +51,4 @@ Los datos provienen del repositorio UCI Machine Learning: **Statlog (German Cred
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/german-credit-risk.git](https://github.com/tu-usuario/german-credit-risk.git)
+   git clone [https://github.com/surzua/german-credit-risk.git](https://github.com/surzua/german-credit-risk.git)
